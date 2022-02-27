@@ -1,6 +1,8 @@
 # Code Refractor Starter Code
 
 ## Accessibility Code Challenge
+### Purpose: To create a more accessible website
+
 
 ## Written with:
 * HTML
